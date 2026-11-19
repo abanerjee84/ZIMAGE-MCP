@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "local-zimage": {
+      "command": "E:\\TOOLS\\ZIMAGE-TURBO-MCP\\.venv\\Scripts\\python.exe",
+      "args": ["E:\\TOOLS\\ZIMAGE-TURBO-MCP\\zimage.py", "mcp"]
+    }
+  }
+}

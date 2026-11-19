@@ -1,0 +1,8 @@
+﻿fastapi==0.115.12
+starlette==0.46.2
+uvicorn==0.34.3
+mcp==1.30.0
+httpx==0.28.1
+filelock==4.2.12
+huggingface-hub==1.33.0
+pillow==13.0.0
